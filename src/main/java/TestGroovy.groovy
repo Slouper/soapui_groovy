@@ -14,6 +14,4 @@ class Test {
         log.info testRunner.testCase.testSteps['PropertiesStep'].getPropertyValue("propertyTest")
 
     }
-
-
 }
